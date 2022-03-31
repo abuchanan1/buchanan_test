@@ -3,6 +3,6 @@
 Spyder Editor
 
 This is a temporary script file.
-"""
 
-Print("im the best")
+
+print("im the best")
